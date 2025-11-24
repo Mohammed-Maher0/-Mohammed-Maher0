@@ -12,7 +12,7 @@
 
 ![Totals Hits](https://komarev.com/ghpvc/?username=mohamedmaher&style=flat&color=red&label=PROFILE+VIEWS)
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmohamedmaher&count_bg=%23FF0000&title_bg=%23555555&icon=security.svg&icon_color=%23E7E7E7&title=CYBER+HITS&edge_flat=false)
-[![linkedin badge](https://img.shields.io/badge/Mohamed%20Maher-blue?style=flat&logo=linkedin)](https://linkedin.com/in/mohamedmaher-profile) <br>
+[![linkedin badge](https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohmmed-maher/) <br> 
 </div>
 
 <hr></hr>
