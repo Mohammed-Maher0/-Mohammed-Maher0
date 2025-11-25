@@ -3,7 +3,6 @@
    Bug Hunter| Junior Penetration Tester </h1>
 </div>
 
-
 ## 👨‍💻 About Me
 Junior Penetration Tester focused on building strong hands-on experience through real-world labs and simulations.  
 Currently practicing Web Application Security, BurpSuite Labs, API Testing, and common vulnerabilities from OWASP Top 10.  
@@ -15,13 +14,10 @@ Always learning, improving, and documenting my progress.
 
 </div>
 
----
-
 ## 🧪 Practical Experience
 - Solving **Burp Suite Academy Labs**  
 - Practicing **PortSwigger Web Security Labs**  
-- Web App security testing on **DVWA, Juice Shop, bWAPP, Mutillidae**  
-- Network testing practice on **TryHackMe / HackTheBox**  
+- Web App security testing on **DVWA,  bWAPP, Mutillidae**  
 - Hands-on experience with common vulnerabilities:
 
   - SQL Injection  
@@ -64,7 +60,7 @@ Always learning, improving, and documenting my progress.
 ## 🧠 Skills (Python Style)
 
 ```python
-class MohamedMaher(PenTester):
+class MohammedMaher(PenTester):
 
   def __init__(self, specialty="Web Penetration Testing"):
     self.specialty = specialty
