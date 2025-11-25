@@ -20,23 +20,6 @@ Always learning, improving, and documenting my progress.
 - Web App security testing on **DVWA,  bWAPP, Mutillidae**  
 - Hands-on experience with common vulnerabilities:
 
-  - SQL Injection  
-  - XSS  
-  - Broken Access Control (BAC)  
-  - IDOR  
-  - SSRF  
-  - Authentication & Session Attacks  
-  - Information Disclosure  
-  - Directory Traversal / LFI  
-  - CSRF  
-  - CORS Misconfiguration  
-  - File Upload Vulnerabilities  
-  - OS Command Injection  
-  - Server-Side Template Injection (SSTI)  
-  - XML External Entity (XXE)  
-  - Insecure Deserialization  
-
-
 ## 🛠️ Tools & Technologies
 
 ![Kali Linux](https://img.shields.io/badge/Kali%20Linux-5C428C?style=flat&logo=kali-linux&logoColor=white)
